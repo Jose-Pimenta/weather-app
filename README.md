@@ -1,22 +1,23 @@
 # Weather App
 
-Weather App is a responsive web application built with React and Vite that provides current weather information and a 5-day forecast for any city, powered by the OpenWeatherMap API.
+Weather App is a responsive web application built with React and Vite that provides current weather information and a 5-day forecast for any city, powered by the OpenWeatherMap API.  
+[![Vercel](https://img.shields.io/badge/Deploy-on_Vercel-000?style=flat&logo=vercel&logoColor=white)](https://weather-app.tiagopimenta.pt)
 
 ## Features
 
-- Search for any city to get current weather conditions  
-- Display temperature, humidity, wind speed, and weather description  
-- 5-day forecast with daily temperature highs and lows  
-- Toggle between Celsius and Fahrenheit  
-- Responsive design for desktop and mobile  
+- Search for any city to get current weather conditions
+- Display temperature, humidity, wind speed, and weather description
+- 5-day forecast with daily temperature highs and lows
+- Toggle between Celsius and Fahrenheit
+- Responsive design for desktop and mobile
 
 ## Technologies
 
-- React (v19)  
-- Vite for development and build tooling  
-- React Router DOM for routing (if applicable)  
-- Axios for HTTP requests  
-- CSS Modules or plain CSS for styling  
+- React (v19)
+- Vite for development and build tooling
+- React Router DOM for routing (if applicable)
+- Axios for HTTP requests
+- CSS Modules or plain CSS for styling
 
 ## Project Structure
 
@@ -49,8 +50,8 @@ weather-app/
 
 ### Prerequisites
 
-- Node.js (>=14.x)  
-- npm  
+- Node.js (>=14.x)
+- npm
 
 ### Installation
 
@@ -95,8 +96,8 @@ This project uses the [OpenWeatherMap API](https://openweathermap.org/api) to fe
 
 ## Customization
 
-- Change the number of forecast days by updating the API call in `api/weather.js`.  
-- Customize styles in `src/index.css` or component CSS files.  
+- Change the number of forecast days by updating the API call in `api/weather.js`.
+- Customize styles in `src/index.css` or component CSS files.
 
 ## Contributing
 
