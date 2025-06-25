@@ -7,8 +7,6 @@ Weather App is a responsive web application built with React and Vite that provi
 
 - Search for any city to get current weather conditions
 - Display temperature, humidity, wind speed, and weather description
-- 5-day forecast with daily temperature highs and lows
-- Toggle between Celsius and Fahrenheit
 - Responsive design for desktop and mobile
 
 ## Technologies
