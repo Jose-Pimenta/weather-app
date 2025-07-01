@@ -22,24 +22,22 @@ Weather App is a responsive web application built with React and Vite that provi
 ```
 weather-app/
 ├── public/
-│   └── index.html
+│   └── vite.svg
 ├── src/
 │   ├── components/
-│   │   ├── SearchBar.jsx
-│   │   ├── WeatherCard.jsx
-│   │   ├── Forecast.jsx
-│   │   └── (component styles)
-│   ├── api/
-│   │   └── weather.js
-│   ├── pages/
-│   │   └── Home.jsx
+│   │   ├── Weather.css
+│   │   └── Weather.jsx
+│   ├── assets/
 │   ├── App.jsx
 │   ├── main.jsx
 │   └── index.css
-├── .env.example
+├── .env
 ├── .gitignore
+├── eslint.config.js
+├── index.html
 ├── package.json
 ├── package-lock.json
+├── vercel.json
 ├── vite.config.js
 └── README.md
 ```
